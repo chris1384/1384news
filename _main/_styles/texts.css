@@ -1,0 +1,67 @@
+._paragraph {
+    text-align: center;
+    height: auto;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+._paragraph-contact {
+    text-align: center;
+    height: auto;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    transition: 0.2s all;
+    user-select: none;
+}
+
+._paragraph-contact:hover {
+    color: palevioletred;
+    cursor: pointer;
+}
+
+.news-body h1 {
+    color: black;
+}
+
+.news-body h2 {
+    padding-top: 10px;
+    color: black;
+    font-size: 30px;
+}
+
+.news-body span {
+    color: black;
+    font-weight: bold;
+}
+
+.news-body p {
+    color: black;
+}
+
+.news-body em {
+    color: black;
+}
+
+.news-body blockquote {
+    color: black;
+}
+
+
+.news-body img {
+    margin-block: 50px;
+    border-radius: 20px;
+    border: 2px solid indigo;
+}
+
+
+.news-body strong {
+    color: black;
+}
+
+
+
+.news-body p a {
+    color: palevioletred;
+}
